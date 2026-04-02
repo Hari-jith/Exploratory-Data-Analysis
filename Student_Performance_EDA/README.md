@@ -22,6 +22,8 @@ The entire analysis is performed using Python with libraries such as NumPy, Pand
 
 The dataset consists of academic and behavioral attributes of students:
 
+Dataset Link: https://www.kaggle.com/datasets/borovai0/student-performance-analytics-dataset
+
 | Feature               | Description                             |
 | --------------------- | --------------------------------------- |
 | gender                | Gender of the student                   |
